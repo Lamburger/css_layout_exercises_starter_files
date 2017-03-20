@@ -11,13 +11,21 @@ main {
   margin-right: auto;
 }
 
+.nebula{
+  width: 300px;
+}
+
+.left, .right {
+  margin-top: 15px;
+  margin-bottom: 15px;
+}
+
 .left {
-	float: left;
-	margin-right: 10px;
+  float: left;
+  margin-right: 15px;
 }
 
 .right {
-	float: right;
-	margin-left: 10px;
-	
+  float: right;
+  margin-left: 15px;
 }
